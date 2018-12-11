@@ -1,0 +1,36 @@
+body{
+    background-image:url('/static/imgs/tasky_pattern.png');
+    padding:5px;
+    border:1px solid black;
+}
+
+h2 {
+    color:white;
+}
+
+.custom-hero{
+    padding: 40px;
+    border-radius:20px;
+    border:2px solid gray;
+    background:rgba(0, 0, 0, 0.2);
+    position:relative;
+}
+
+.numbers {
+    margin-top: 30px;
+    list-style-type: none;
+}
+
+.phone-buttons {
+    margin-top: 10px;
+}
+
+p{
+    color:white;
+}
+
+#log {
+    background: #fef;
+    text-size: 1.1em;
+    border-radius: 15px;
+}
